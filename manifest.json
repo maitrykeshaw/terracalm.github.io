@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"TerraCalm(Official) US |Only $49 per Jar Today",
+  "short_name":"TerraCalm",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"TerraCalm is an all-natural healthy nail and beautiful nail fungus solution for brittle nails, a fungus prevention breakthrough",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
